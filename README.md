@@ -1,12 +1,20 @@
-# UI(webpage)
+# Engineering Parts Breakdown
+##UI(webpage)
+
+-using Front-End
 
 ##Front End
-html
-css
-react(FB/js)
-php
+
+-html
+
+-css
+
+-react(FB/js)
+
+-php
 
 ###AWS
+
 -postfix
 -process the user data
 
